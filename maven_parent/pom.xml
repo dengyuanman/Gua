@@ -6,9 +6,8 @@
 
     <groupId>cn.itcast</groupId>
     <artifactId>maven_parent</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-	<packing>jar</packing>
     <modules>
         <module>maven_dao</module>
         <module>maven_service</module>
